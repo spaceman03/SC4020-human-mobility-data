@@ -1,1 +1,1 @@
-# Data Mining on HUman Mobility Data
+# Data Mining on Human Mobility Data
