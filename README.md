@@ -2,7 +2,9 @@
 This repository contains the source code, experimental results, and analysis for our project on **data mining and prediction using human mobility data** in Japan. The project covers three major tasks: frequent pattern discovery, sequential pattern mining, and next-location prediction using deep learning techniques.
 
 ## 📌 Abstract
-This project explores various data mining techniques to analyze and predict human mobility patterns using real-world location data collected in Japan. The key objectives and tasks include:
+This project explores various data mining techniques to analyze and predict human mobility patterns using real-world location data collected in Japan.    
+
+The key objectives and tasks include:
 
 1. **Frequent POI Identification**  
    Applied the **Apriori algorithm** to discover frequently visited Points-of-Interest (POIs) across the dataset.
@@ -16,7 +18,7 @@ For each task, we integrated optimized algorithms, implemented detailed pre-proc
 ## :busts_in_silhouette: Our Team
 | Name | Task | GitHub |
 |------|-------------|--------|
-| Brandon Jang Jin Tian | Frequent POI Mining, Apriori Implementation | @ |
+| Brandon Jang Jin Tian | Next Location Prediction | @BrandonJang |
 | Chung Zhi Xuan | Data Preprocessing, GSP Sequential Pattern Mining | @spaceman03 |
-| Ting Ruo Chee | GSP Sequential Pattern Mining | @ |
+| Ting Ruo Chee | GSP Sequential Pattern Mining | @ruochee723 |
 | Yau Jun Hao | Frequent POI Identification | @ |
